@@ -1,7 +1,9 @@
 ### Hey there! I'm D'Lucca 🤗👋
 
+- ⚙ Industrial Mechanics Technician 🛠
 - 🦿 I’m currently working on automation development 🦾
-- 👨🏽‍💻 I’m currently learning english and web development 💻
+- 📚 Training my english writing pages like this 🕺
+- 👨🏽‍💻 I’m currently learning HTML, CSS and JavaScript 💻
 - 🙇🏽‍♂ Pronouns: he/him 🙆🏽‍♂️
 
 <div align="center">
