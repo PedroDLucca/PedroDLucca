@@ -1,9 +1,10 @@
 ### Hey there! I'm D'Lucca 🤗👋
 
 - ⚙ Industrial Mechanics Technician 🛠
+- 👨🏾‍🎓 Mechatronic Engineering Student 🤖
 - 🦿 I’m currently working on automation development 🦾
 - 📚 Training my english writing pages like this 🕺
-- 👨🏽‍💻 I’m currently learning HTML, CSS and JavaScript 💻
+- 👨🏽‍💻 I’m currently learning about Game Development 🎮
 - 🙇🏽‍♂ Pronouns: he/him 🙆🏽‍♂️
 
 <div align="center">
