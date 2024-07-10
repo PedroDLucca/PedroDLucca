@@ -1,11 +1,10 @@
 ### Hey there! I'm D'Lucca 🤗👋
 
-- ⚙ Industrial Mechanics Technician 🛠
 - 👨🏾‍🎓 Mechatronic Engineering Student 🦾
 - 🦿 Working with 3D Printing and Prototyping 🤖
 - 📚 Training my english writing pages like this 🕺
-- 👨🏽‍💻 Learning HTML and CSS 🌐
-- 👾 I want to be a Game Developer 🎮
+- 🪛 Technologies: HTML, CSS and JavaScript 🌐
+- 👨🏽‍💻Learning React and Node.js 📚
 
 <div align="center">
   <a href="https://github.com/PedroDLucca">
@@ -22,7 +21,6 @@
 ##
   
 <div>
-  <a href="https://instagram.com/iam_dlucca" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="mailto:dluccammendes@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="www.linkedin.com/in/pedro-dlucca"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="https://pin.it/5D7Y46DME"><img src="https://img.shields.io/badge/Pinterest-%23E60023.svg?&style=for-the-badge&logo=Pinterest&logoColor=white" target="_blank"></a>
