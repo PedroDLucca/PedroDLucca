@@ -1,7 +1,7 @@
 ### Hey there! I'm D'Lucca 🤗👋
 
-- 👨🏾‍🎓 Mechatronic Engineering Student 🦾
-- 🦿 Working with 3D Printing and Prototyping 🤖
+- 👨🏾‍🎓 System Development Student 💻
+- 🦿 Experienced with 3D Printing and Prototyping 🤖
 - 📚 Training my english writing pages like this 🕺
 - 🪛 Technologies: HTML, CSS and JavaScript 🌐
 - 👨🏽‍💻Learning React and Node.js 📚
